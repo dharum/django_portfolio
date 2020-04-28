@@ -1,0 +1,5 @@
+ECHO OFF
+set path=%PATH%;C:\Program Files\Microsoft VS Code
+set path=%PATH%;C:\Program Files\MySQL\MySQL Server 5.6\bin
+CALL .env\Scripts\Activate
+
